@@ -2,7 +2,6 @@
 
 A full-stack application that provides personalized career guidance, interview preparation, and AI-powered tools for professional success.
 
-![AI Career Coach](https://github.com/user-attachments/assets/eee79242-4056-4d19-b655-2873788979e1)
 
 ## Features
 
